@@ -13,7 +13,7 @@ spec:
         app: my-app
     spec:
       containers:
-      - name: cont-7
+      - name: cont-1
         image: shaikmustafa/dm
         ports:
         - containerPort: 80
